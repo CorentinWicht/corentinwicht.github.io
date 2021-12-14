@@ -10073,7 +10073,7 @@ p.lead {
   }
 }
 
-@font-face {
+/* @font-face {
   font-family: 'icomoon';
   src:  url('fonts/icomoon.eot?jne1gw');
   src:  url('fonts/icomoon.eot?jne1gw#iefix') format('embedded-opentype'),
@@ -10083,7 +10083,7 @@ p.lead {
   font-weight: normal;
   font-style: normal;
   font-display: block;
-}
+} */
 
 .social-icons .social-icon {
   display: inline-flex;
