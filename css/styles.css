@@ -10072,6 +10072,19 @@ p.lead {
     display: block;
   }
 }
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?jne1gw');
+  src:  url('fonts/icomoon.eot?jne1gw#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jne1gw') format('truetype'),
+    url('fonts/icomoon.woff?jne1gw') format('woff'),
+    url('fonts/icomoon.svg?jne1gw#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;

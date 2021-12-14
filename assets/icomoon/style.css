@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?jne1gw');
+  src:  url('fonts/icomoon.eot?jne1gw#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jne1gw') format('truetype'),
+    url('fonts/icomoon.woff?jne1gw') format('woff'),
+    url('fonts/icomoon.svg?jne1gw#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-us .path1:before {
+  content: "\e903";
+  color: rgb(189, 61, 68);
+}
+.icon-us .path2:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-us .path3:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(25, 47, 93);
+}
+.icon-us .path4:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-it .path1:before {
+  content: "\e907";
+  color: rgb(255, 255, 255);
+}
+.icon-it .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(0, 146, 70);
+}
+.icon-it .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(206, 43, 55);
+}
+.icon-de .path1:before {
+  content: "\e90a";
+  color: rgb(255, 206, 0);
+}
+.icon-de .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-de .path3:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(221, 0, 0);
+}
+.icon-fr .path1:before {
+  content: "\e900";
+  color: rgb(255, 255, 255);
+}
+.icon-fr .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(0, 38, 127);
+}
+.icon-fr .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(243, 24, 48);
+}
