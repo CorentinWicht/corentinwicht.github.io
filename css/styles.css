@@ -43,7 +43,8 @@
   /* --primary: #427272; */
   /* --link: #e28b3d; */
   --primary: #11738d;
-  --link: #000000;
+  --link: #8D2B11;
+  /* Using complementary colors generator: https://htmlcolorcodes.com/fr/selecteur-de-couleur/ */
 }
 
 *,
@@ -164,7 +165,7 @@ sup {
 }
 
 a {
-  color: #000000;
+  color: #8D2B11;
   text-decoration: none;
   background-color: transparent;
 }
